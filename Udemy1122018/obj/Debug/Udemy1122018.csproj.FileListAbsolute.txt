@@ -1,0 +1,7 @@
+C:\Users\nicho\source\repos\Udemy1122018\Udemy1122018\bin\Debug\Udemy1122018.exe.config
+C:\Users\nicho\source\repos\Udemy1122018\Udemy1122018\bin\Debug\Udemy1122018.exe
+C:\Users\nicho\source\repos\Udemy1122018\Udemy1122018\bin\Debug\Udemy1122018.pdb
+C:\Users\nicho\source\repos\Udemy1122018\Udemy1122018\obj\Debug\Udemy1122018.csproj.CoreCompileInputs.cache
+C:\Users\nicho\source\repos\Udemy1122018\Udemy1122018\obj\Debug\Udemy1122018.exe
+C:\Users\nicho\source\repos\Udemy1122018\Udemy1122018\obj\Debug\Udemy1122018.pdb
+C:\Users\nicho\source\repos\Udemy1122018\Udemy1122018\obj\Debug\Udemy1122018.csprojAssemblyReference.cache
